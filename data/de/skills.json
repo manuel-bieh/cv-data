@@ -1,32 +1,32 @@
 {
     "technical": {
         "proficient": [
-            "HTML5", "XHTML", "JavaScript", "ES2015", "jQuery", "CSS3", "Node.js", "React", "Gulp", "Grunt.js", 
-            "ExpressJS", "Webpack", "Handlebars", "XML", "AJAX/XHR", "HTTP", "SASS/SCSS", "LESS", 
-            "PhantomJS", "Workflow-Automatisierung", "Mobile-/Web-Technologien", "Web-/Frontend-Performance", 
+            "HTML5", "XHTML", "JavaScript", "ES2015", "jQuery", "CSS3", "Node.js", "React", "Gulp", "Grunt.js",
+            "ExpressJS", "Webpack", "Handlebars", "XML", "AJAX/XHR", "HTTP", "SASS/SCSS", "LESS",
+            "PhantomJS", "Workflow-Automatisierung", "Mobile-/Web-Technologien", "Web-/Frontend-Performance",
             "Responsive Design"
         ],
         "intermediate": [
-            "PHP", "SQL", "Underscore", "Lodash", "Redux", "require.js", "AMD", "Backbone", 
-            "AngularJS", "Bootstrap", "REST", "Websockets", "Google Maps API", "Git", "SVN", "TYPO3", "Apache", 
-            "MongoDB", "NoSQL", "npm", "WordPress", "XSLT", "XPath", "jQuery Mobile", "QUnit", "Jasmine", "Smarty", 
+            "PHP", "SQL", "Underscore", "Lodash", "Redux", "require.js", "AMD", "Backbone",
+            "AngularJS", "Bootstrap", "REST", "Websockets", "Google Maps API", "Git", "SVN", "TYPO3", "Apache",
+            "MongoDB", "NoSQL", "npm", "WordPress", "XSLT", "XPath", "jQuery Mobile", "QUnit", "Jasmine", "Smarty",
             "SEO", "WAP/WML", "Adobe Photoshop", "Adobe Fireworks", "FBML/Facebook SDK", "Docbook", "Phonegap", "Linux"
         ],
         "basic": [
-            "Meteor.js", "Ember.js", "jade/pug", "ejs", "swig", "twig", "HAML", "Nunjucks", "Zurb Foundation", 
+            "Meteor.js", "Ember.js", "jade/pug", "ejs", "swig", "twig", "HAML", "Nunjucks", "Zurb Foundation",
             "XT-Commerce", "Magento Shop", "OXID eSales", "oAuth", "CouchDB", "Adobe InDesign", "Adobe Illustrator"
         ]
     },
     "economic": {
         "proficient": [
-            "Cost calculation for Web Projects", "Technical Project Management", "Written English"
+            "Kostenkalkulation in Web-Projekten", "technisches Projektmanagement", "geschriebenes Englisch"
         ],
         "intermediate": [
-            "Employee Management and Leadership", "Team Management and Team Building", "Corporate Management", "SCRUM", 
-            "IT and Online Law", "Spoken English ;)"
+            "Erstellung von Angeboten", "Erstellung von Pflichtenheften", "Mitarbeiterführung",
+            "Teamleitung/Team-Aufbau", "Unternehmensführung", "SCRUM", "IT-/Online-Recht", "gesprochenes Englisch"
         ],
         "basic": [
-            "Corporate Financing", "Accounting", "Process Management"
+            "Unternehmensfinanzierung", "Buchhaltung", "Prozessmanagement"
         ]
     }
 }
