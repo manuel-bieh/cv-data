@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sport",
+        "keywords": [
+            "Fußball", 
+            "Golf", 
+            "Inline Skating", 
+            "Tischtennis"
+        ]
+    },
+    { "name": "Borussia Dortmund" },
+    { "name": "Musik" },
+    { "name": "Politik" },
+    { "name": "Wirtschaft" },
+    { "name": "Weiterbildung" },
+    { "name": "Selbstmanagement" },
+    { "name": "Fotografie" },
+    { "name": "Typografie" },
+    { "name": "gutes Essen" }
+]

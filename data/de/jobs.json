@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Wiremore UG (haftungsbeschränkt)",
+        "position": "Gründer",
+        "website": "https://www.wiremore.com",
+        "startDate": "2013-03-14"
+    },
+    {
+        "company": "ubiiqu GmbH",
+        "position": "Gründer/CTO",
+        "website": "http://ubiiqu.com",
+        "startDate": "2012-02-01",
+        "endDate": "2012-12-01"
+    },
+    {
+        "company": "itemis AG",
+        "position": "IT Berater/Frontend-Entwickler",
+        "website": "https://www.itemis.de",
+        "startDate": "2011-11-01",
+        "endDate": "2012-01-31"
+    },
+    {
+        "company": "Sevenval GmbH",
+        "position": "Software-Entwickler",
+        "website": "https://www.sevenval.com",
+        "startDate": "2010-10-01",
+        "endDate": "2011-10-31"
+    },
+    {
+        "company": "Mobilistics GmbH",
+        "position": "Gründer/CTO",
+        "website": "https://www.mobilistics.de",
+        "startDate": "2008-05-01",
+        "endDate": "2010-09-30"
+    },
+    {
+        "company": "Raphael GmbH",
+        "position": "Web-Entwickler (Fullstack)",
+        "website": "https://www.sevenval.com",
+        "startDate": "2006-11-01",
+        "endDate": "2008-04-30"
+    },
+    {
+        "company": "Parallaxis GbR",
+        "position": "Auszubildender zum Mediengestalter Digital",
+        "website": "https://www.parallaxis.de",
+        "startDate": "2003-11-01",
+        "endDate": "2005-05-31"
+    },
+    {
+        "company": "Pronetics oHG",
+        "position": "Auszubildender zum Mediengestalter Digital",
+        "startDate": "2002-08-01",
+        "endDate": "2003-10-31"
+    },
+    {
+        "company": "Pronetics oHG",
+        "position": "Praktikant",
+        "startDate": "2000-12-01",
+        "endDate": "2002-08-31"
+    }
+]
