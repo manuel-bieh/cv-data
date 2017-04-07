@@ -3,60 +3,69 @@
         "company": "Wiremore UG (haftungsbeschränkt)",
         "position": "Founder",
         "website": "https://www.wiremore.com",
-        "startDate": "2013-03-14"
+        "startDate": "2013-03-14",
+        "location": "Berlin"
     },
     {
         "company": "ubiiqu GmbH",
         "position": "Founder/CTO",
         "website": "http://ubiiqu.com",
         "startDate": "2012-02-01",
-        "endDate": "2012-12-01"
+        "endDate": "2012-12-01",
+        "location": "Berlin"
     },
     {
         "company": "itemis AG",
         "position": "IT Consultant/Frontend Developer",
         "website": "https://www.itemis.de",
         "startDate": "2011-11-01",
-        "endDate": "2012-01-31"
+        "endDate": "2012-01-31",
+        "location": "Lünen"
     },
     {
         "company": "Sevenval GmbH",
         "position": "Software Developer",
         "website": "https://www.sevenval.com",
         "startDate": "2010-10-01",
-        "endDate": "2011-10-31"
+        "endDate": "2011-10-31",
+        "location": "Cologne"
     },
     {
         "company": "Mobilistics GmbH",
         "position": "Founder/CTO",
         "website": "https://www.mobilistics.de",
         "startDate": "2008-05-01",
-        "endDate": "2010-09-30"
+        "endDate": "2010-09-30",
+        "location": "Dortmund"
     },
     {
         "company": "Raphael GmbH",
         "position": "Web Developer (Fullstack)",
         "website": "https://www.sevenval.com",
         "startDate": "2006-11-01",
-        "endDate": "2008-04-30"
+        "endDate": "2008-04-30",
+        "location": "Dortmund"
     },
     {
         "company": "Parallaxis GbR",
         "position": "Apprentice, Digital Media Designer",
         "website": "https://www.parallaxis.de",
         "startDate": "2003-11-01",
-        "endDate": "2005-05-31"
+        "endDate": "2005-05-31",
+        "location": "Dortmund"
     },
     {
         "company": "Pronetics oHG",
         "position": "Apprentice, Digital Media Designer",
         "startDate": "2002-08-01",
-        "endDate": "2003-10-31"
+        "endDate": "2003-10-31",
+        "location": "Dortmund"
     },
     {
         "company": "Pronetics oHG",
         "position": "Intern",
         "startDate": "2000-12-01",
-        "endDate": "2002-08-31"
+        "endDate": "2002-08-31",
+        "location": "Dortmund"
     }
 ]
