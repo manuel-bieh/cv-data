@@ -7,7 +7,7 @@
             "Responsive Design"
         ],
         "intermediate": [
-            "PHP", "SQL", "Underscore", "Lodash", "Redux", "require.js", "AMD", "Backbone",
+            "PHP", "SQL", "Underscore", "Lodash", "Redux", "Immutable.js", "require.js", "AMD", "Backbone",
             "AngularJS", "Bootstrap", "REST", "Websockets", "Google Maps API", "Git", "SVN", "TYPO3", "Apache",
             "MongoDB", "NoSQL", "npm", "WordPress", "XSLT", "XPath", "jQuery Mobile", "QUnit", "Jasmine", "Smarty",
             "SEO", "WAP/WML", "Adobe Photoshop", "Adobe Fireworks", "FBML/Facebook SDK", "Docbook", "Phonegap", "Linux"
