@@ -1,20 +1,19 @@
 {
     "technical": {
         "proficient": [
-            "HTML5", "XHTML", "JavaScript", "ES2015", "jQuery", "CSS3", "Node.js", "React", "Gulp", "Grunt.js",
-            "ExpressJS", "Webpack", "Handlebars", "XML", "AJAX/XHR", "HTTP", "SASS/SCSS", "LESS",
-            "PhantomJS", "Workflow-Automatisierung", "Mobile-/Web-Technologien", "Web-/Frontend-Performance",
-            "Responsive Design"
+            "HTML5", "XHTML", "JavaScript", "ES2015", "Node.js", "React", "Redux", "Gulp", "Grunt.js", "ExpressJS", "Webpack", 
+            "jQuery", "CSS3", "Handlebars", "XML", "AJAX/XHR", "HTTP", "SASS/SCSS", "LESS", "PhantomJS", 
+            "Workflow-Automatisierung", "Mobile-/Web-Technologien", "Web-/Frontend-Performance", "Responsive Design"
         ],
         "intermediate": [
-            "PHP", "SQL", "Underscore", "Lodash", "Redux", "Immutable.js", "require.js", "AMD", "Backbone",
+            "Underscore", "Lodash", "Immutable.js", "require.js", "AMD", "PHP", "SQL", "Backbone",
             "AngularJS", "Bootstrap", "REST", "Websockets", "Google Maps API", "Git", "SVN", "TYPO3", "Apache",
             "MongoDB", "NoSQL", "npm", "WordPress", "XSLT", "XPath", "jQuery Mobile", "QUnit", "Jasmine", "Smarty",
             "SEO", "WAP/WML", "Adobe Photoshop", "Adobe Fireworks", "FBML/Facebook SDK", "Docbook", "Phonegap", "Linux"
         ],
         "basic": [
             "Meteor.js", "Ember.js", "jade/pug", "ejs", "swig", "twig", "HAML", "Nunjucks", "Zurb Foundation",
-            "XT-Commerce", "Magento Shop", "OXID eSales", "oAuth", "CouchDB", "Adobe InDesign", "Adobe Illustrator"
+            "XT-Commerce", "Magento Shop", "oAuth 2", "CouchDB", "Adobe InDesign", "Adobe Illustrator"
         ]
     },
     "economic": {
