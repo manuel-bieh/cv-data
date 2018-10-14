@@ -1,8 +1,8 @@
 {
     "technical": {
         "proficient": [
-            "HTML5", "XHTML", "JavaScript", "ES2015", "Node.js", "React", "Redux", "Gulp", "Grunt.js", "ExpressJS", "Webpack", 
-            "jQuery", "CSS3", "Handlebars", "XML", "AJAX/XHR", "HTTP", "SASS/SCSS", "LESS", "PhantomJS", 
+            "JavaScript", "ES2015", "React", "Redux", "Webpack", "Gulp", "Grunt.js", "Node.js", "Express", 
+            "jQuery", "HTML5", "XHTML", "CSS3", "Handlebars", "XML", "AJAX/XHR", "HTTP", "SASS/SCSS", "LESS", "PhantomJS", 
             "Workflow-Automatisierung", "Mobile-/Web-Technologien", "Web-/Frontend-Performance", "Responsive Design"
         ],
         "intermediate": [
