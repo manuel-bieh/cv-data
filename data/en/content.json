@@ -114,6 +114,33 @@
     "title": "Oops, this page does not exist.",
     "text": ["Looks like you tried to access a non-existing page. I'm sorry for that."]
   },
+  "testimonials": [
+    {
+      "quote": "Manuel is a reliable, hard-working front-end developer with great attention to small details. His passion for quality work has always proved to be effective and helpful in our work.",
+      "name": "Vitaly Friedman, Editor-in-Chief, Smashing Magazine",
+      "image": "vitaly2.jpg"
+    },
+    {
+      "quote": "Galileo Computing has published the book “Mobiles Webdesign” by Manuel Bieh in 2008. It has been a pleasure for us to work with one of the few experts for the mobile web in Germany so we were able to publish the first German book about mobile webdesign. It was a pleasant and professional collaboration. […] We would be pleased if he continued to work for us as author.",
+      "name": "Jan Watermann, Editor, Galileo Computing",
+      "image": "jan.jpg"
+    },
+    {
+      "quote": "Manuel has accompanied the launch of the Handelsblatt Webapp as Lead JavaScript-Architect for us. He joined the project right from the beginning and took responsibility for the coordination and organization of internal workforce and external service providers for a long time. We got to know him as a very competent and solution-oriented person in charge and really enjoyed working with him.",
+      "name": "Heiko Scherer, Founder/CEO, Clapp Mobile",
+      "image": "heiko.jpg"
+    },
+    {
+      "quote": "Manuel has always liked challenges and new projects. I've never heard him say \"that's not possible\". He has made projects with us as a freelancer long after he left our company as employee and has always delivered a good a quick solution.",
+      "name": "Roland Gülle, CTO, Sevenval GmbH",
+      "image": "roland.png"
+    },
+    {
+      "quote": "Manuel joined our Frontend team as freelance support and was largely involved in the implementation of our whitelabel single page application. He helped us a lot with his experience with React, distributed a lot of knowledge in our team and has fulfilled our quality requirements to our utmost satisfaction.",
+      "name": "Christopher Weiss, Teamlead Development, 7NXT",
+      "image": "chris.jpg"
+    }
+  ],
   "slides": {
     "02": {
       "title": "About me"

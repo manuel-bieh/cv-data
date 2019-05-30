@@ -115,6 +115,33 @@
       "Sieht aus als hättest du eine Seite aufgerufen die nicht existiert. Das tut mir leid."
     ]
   },
+  "testimonials": [
+    {
+      "quote": "Manuel ist ein verlässlicher und eifriger Frontend-Entwickler mit großer Aufmerksamkeit für kleine Details. Seine Leidenschaft für qualitativ hochwertige Arbeit hat sich während unserer Zusammenarbeit stets als effektiv und hilfreich erwiesen.",
+      "name": "Vitaly Friedman, Editor-in-Chief, Smashing Magazine",
+      "image": "vitaly2.jpg"
+    },
+    {
+      "quote": "Galileo Computing hat im Jahr 2008 das Buch „Mobiles Webdesign“ von Manuel Bieh verlegt. Den Verlag hat es sehr gefreut, mit ihm einen der wenigen Experten Deutschlands für dieses Thema gewinnen zu können und das erste deutschsprachige Buch über Mobiles Webdesign zu veröffentlichen. Die Zusammenarbeit mit Herrn Bieh war angenehm und professionell. Alle Terminabsprachen hat er zuverlässig eingehalten. […]",
+      "name": "Jan Watermann, Lektor, Galileo Computing",
+      "image": "jan.jpg"
+    },
+    {
+      "quote": "Manuel hat für uns den Launch der Handelsblatt Webapp als Lead JavaScript-Architect von Beginn des Projekts begleitet und über lange Zeit die Zusammenarbeit mit internen Entwicklern und externen Dienstleistern koordiniert und organisiert. Dabei haben wir ihn als sehr kompetenten und lösungsorientierten Ansprechpartner schätzen gelernt mit dem wir gern zusammengearbeitet haben.",
+      "name": "Heiko Scherer, Gründer, Clapp Mobile",
+      "image": "heiko.jpg"
+    },
+    {
+      "quote": "Auch vollkommen neue Herausforderungen oder Projekte hat Manuel immer gerne übernommen. „Geht nicht“ habe ich von ihm nie gehört. Auch lange nachdem Manuel in unserem Team war hat er regelmäßig Projekte als Freelancer für uns übernommen und war immer ein Garant für eine gute und schnelle Lösung.",
+      "name": "Roland Gülle, CTO, Sevenval GmbH",
+      "image": "roland.png"
+    },
+    {
+      "quote": "Manuel stieß als Unterstützung zu unserem Frontend-Team und war maßgeblich an der Umsetzung der Whitelabel-Single-Page-Application beteiligt. Durch seine Erfahrungen und Kompetenzen in React.js hat er viel Wissen im Team verteilt und unsere Qualitätsansprüche zu unser größten Zufriedenheit erfüllt.",
+      "name": "Christopher Weiss, Teamlead Development, 7NXT",
+      "image": "chris.jpg"
+    }
+  ],
   "slides": {
     "02": {
       "title": "Über mich"
