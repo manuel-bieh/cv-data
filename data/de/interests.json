@@ -1,21 +1,16 @@
 [
-    {
-        "name": "Sport",
-        "keywords": [
-            "Fußball", 
-            "Golf", 
-            "Inline Skating", 
-            "Tischtennis"
-        ]
-    },
-    { "name": "Borussia Dortmund" },
-    { "name": "Musik" },
-    { "name": "Politik" },
-    { "name": "Wirtschaft" },
-    { "name": "Blockchain, Cryptocurrencies, Bitcoin/Ethereum" },
-    { "name": "Weiterbildung" },
-    { "name": "Selbstmanagement" },
-    { "name": "Fotografie" },
-    { "name": "Typografie" },
-    { "name": "gutes Essen" }
+  {
+    "name": "Sport",
+    "keywords": ["Fußball", "Golf", "Inline Skating", "Tischtennis"]
+  },
+  { "name": "Borussia Dortmund" },
+  { "name": "Musik" },
+  { "name": "Politik" },
+  { "name": "Wirtschaft" },
+  { "name": "Blockchain, Cryptocurrencies, Bitcoin/Ethereum" },
+  { "name": "Weiterbildung" },
+  { "name": "Selbstmanagement" },
+  { "name": "Fotografie" },
+  { "name": "Typografie" },
+  { "name": "gutes Essen" }
 ]

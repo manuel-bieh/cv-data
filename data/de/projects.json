@@ -1,172 +1,190 @@
-[
-  {
-    "title": "Lab 1886 / Daimler",
-    "role": "Freelance JavaScript Consultant",
-    "date": "since Februar 2019",
+{
+  "stage": {
+    "title": "React lernen und verstehen",
+    "date": "April 2019",
+    "image": "react-book-portrait-white-medium.jpg",
     "text": [
-      "For the incubator of Daimler, Lab 1886, I created a concept for the frontent architecture for the back office of an upcoming large-scale project with a rollout in several european contries. After designing the frontend architecture from the ground up I started with the implementation of the actual application together with other developers."
-    ],
-    "image": "daimler.svg",
-    "tech": "JavaScript, ES2015+, React, Hooks, Redux, Jest, Webpack, Babel, i18n, REST, TypeScript"
+      "Nach über 3 Jahren in der täglichen Arbeit mit React in über 15 Projekten, in Teams unterschiedlicher Art, Größe und Zusammensetzung und für Unternehmen aus den verschiedensten Branchen, vom Startup bis zum Großkonzern wollte ich meine Erfahrungen aus dieser Zeit gern weitergeben.",
+      "Aus diesem Grund entschied ich mich Anfang 2018 ein Buch zu schreiben, welches ich im April 2019 mit über 300 Seiten veröffentlicht habe."
+    ]
   },
-  {
-    "title": "KUBIKx / Schmitz Cargobull",
-    "role": "Freelance JavaScript Consultant",
-    "date": "November 2018 – January 2019",
-    "text": [
-      "For KUBIKx, the internal Venture Builder of the Schmitz Cargobull Group, one of Europes largest manufacturer of semi-trailers and trailers, I worked on the technical conception and development of their first venture. My work included consulting and coaching the internal developers in frontend development with React and I was responsible to make their entire existing code base easier to understand and to maintain."
-    ],
-    "image": "schmitzcargobull.svg",
-    "tech": "JavaScript, ES2015+, React, Redux, Jest, Webpack, Babel, i18n, REST"
-  },
-  {
-    "title": "Porsche Digital Lab",
-    "role": "Interim Tech Lead / Frontend Lead",
-    "date": "May 2018 – October 2018",
-    "text": [
-      "For a Porsche Digital Lab venture I created the technical concept and architecture as Tech and Frontend Lead and later, based on that architecture, developed a first version of their product together with a team of 10 developers and designers."
-    ],
-    "image": "porsche.svg",
-    "tech": "JavaScript, ES2015+, React, Redux, Flow, Jest, Webpack, Babel, i18n, Node.js, Express, Hapi, TypeScript"
-  },
-  {
-    "title": "Klarna.",
-    "role": "Freelance Frontend Consultant",
-    "date": "April 2018",
-    "text": [
-      "For the swedish payment service provider and Paypal competitor Klarna I consulted an internal team of developers regarding the development of their internal developer documentation."
-    ],
-    "image": "klarna.svg",
-    "tech": "JavaScript, ES2015+, React, Gatsby, Node.js, Webpack, Docker"
-  },
-  {
-    "title": "BCG Digital Ventures",
-    "role": "Freelance JavaScript Engineer",
-    "date": "January 2018 – March 2018",
-    "text": [
-      "For the Digital Venture branch of the consulting company BCG I developed a React application for high precision farming. The application made it possible for farmers to make fertilizing decisions based on different types of satellite images and create GPS based programs for their tractors."
-    ],
-    "image": "bcgdv.svg",
-    "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Enzyme, Node.js, Webpack, Babel, PostCSS, i18n, Mapbox, Boundless SDK"
-  },
-  {
-    "title": "Brickblock",
-    "role": "Freelance Fullstack Developer",
-    "date": "October/November 2017",
-    "text": [
-      "For the blockchain startup Brickblock I developed a React application which was used by crypto nerds from all over the world to participate in the company's ICO (initial coin offering). Beyond that I supported the development of a platform which was used to sell the first building via blockchain and also optimized and automated the company's processes for managing their own JavaScript packages."
-    ],
-    "image": "brickblock.svg",
-    "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Enzyme, Node.js, Webpack, Babel, CSS Modules, PostCSS, Styled Components, npmjs.com, i18n, Gitlab-CI"
-  },
-  {
-    "title": "Service Partner ONE",
-    "role": "Freelance JavaScript Lead",
-    "date": "August/September 2017",
-    "text": [
-      "As interim Lead JavaScript Developer at Service Partner ONE I was responsible for the technical conception and implementation of several new applications. I also took part in the screening and selection processes for their new permanent Lead JavaScript Developer."
-    ],
-    "image": "servicepartnerone.svg",
-    "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, Babel, XHR, PostCSS, CSS Modules, i18n"
-  },
-  {
-    "title": "TomTom Telematics",
-    "role": "Freelance JavaScript Developer",
-    "date": "July 2017",
-    "text": [
-      "In the Telematics division of TomTom I was part of the Webfleet team. Webfleet is a complex fleet management system which is used by more than 50.000 customers and over 1 million users in 10+ languages. The application has been realized as React single page app."
-    ],
-    "image": "tomtom.svg",
-    "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, Babel, XHR, CSS Modules, i18n"
-  },
-  {
-    "title": "ProSiebenSat.1 Digital",
-    "role": "Freelance JavaScript Architect",
-    "date": "February 2016 – June 2017",
-    "text": [
-      "For the ProSiebenSat1 Digital venture 7NXT I developed a React based frontend application in the field of e-Learning/video content. The special challenge was to make all components and development processes reusable and work in a multi-tenancy environment without neglecting maintainability. Besides the development of the application itself I was also responsible for creating and optimizing efficient development processes in the frontend."
-    ],
-    "image": "pro7sat1digital.svg",
-    "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, Babel, Gulp, XHR, Sass, i18n"
-  },
-  {
-    "title": "Zalando SE",
-    "role": "Freelance JavaScript Developer",
-    "date": "June 2015 – January 2016",
-    "text": [
-      "For Zalando I developed some tools to make the collaboration between several teams (text/content, graphic/layout, \u2026) easier, streamlined and more seemless. This included the conception and development of a micro-cms adapted to the needs of the teams, a component library to enable template based creation of new content and an automated tracking solution which allowed easier user tracking on all content pages."
-    ],
-    "image": "zalando.svg",
-    "tech": "HTML, JavaScript, ES2015+, React, Webpack, Node.js, SASS, Less, Handlebars, Grunt, Gulp, JSONSchema, i18n"
-  },
-  {
-    "title": "Amakuria",
-    "role": "Fullstack Developer",
-    "date": "since December 2014",
-    "text": [
-      "In February 2015 I launched my very own project Amakuria - a product community which aims to making the most exciting, innovative and funniest products from Amazon easily discoverable. The project primarily serves as personal playground to play around with new technologies under live conditions."
-    ],
-    "image": "amakuria.svg",
-    "tech": "Node.js, Express.js, MySQL, HTML, JavaScript, ES2015+, AJAX/XHR, CSS, SASS, Grunt, Handlebars, Web Components/Polymer"
-  },
-  {
-    "title": "Aperto AG",
-    "role": "Freelance JavaScript Lead",
-    "date": "January 2014 – May 2015",
-    "text": [
-      "On behalf of Aperto AG I realized several projects for the swiss supermarket chain \"Migros\". The online presence of the company consists of around one dozen different independent sections which partly use very different technologies. While working for Migros I was involved in a large relaunch of the whole online strategy and took the role as Consultant and Developer for all kind of frontend related topics."
-    ],
-    "image": "aperto.svg",
-    "tech": "HTML, JavaScript, ES2015 (via Traceur Compiler), AJAX/XHR, CSS, SASS/Compass, AngularJS, Handlebars, Grunt, Node.js, Require.js, Web Components"
-  },
-  {
-    "title": "c3 - Creative Code & Content",
-    "role": "Freelance Frontend Developer",
-    "date": "September 2014 – October 2014",
-    "text": [
-      "On behalf of c3 (former KircherBurkhardt GmbH) one of europes leading content marketing agencies I developed a complex interactive infographic for use in the intranet of one of the chemical company Evonik. The big challenge was especially to make it work on all of the more then 22,000 company computers - mostly running with Internet Explorer 7. Mission accomplished, client was happy."
-    ],
-    "image": "c3.svg",
-    "tech": "HTML, JavaScript, jQuery, CSS, SASS"
-  },
-  {
-    "title": "Pixelpark AG",
-    "role": "Freelance Frontend Developer",
-    "date": "October 2013 – January 2014",
-    "text": [
-      "For the renowned german online agency Pixelpark I developed several HTML landingpages for the online pharmacy DocMorris which were later integrated into their shop."
-    ],
-    "image": "pixelpark.svg",
-    "tech": "HTML, JavaScript, jQuery, AJAX/XHR, CSS, SASS/Compass, Less, Grunt, PHP"
-  },
-  {
-    "title": "Aperto AG",
-    "role": "Freelance Frontend Developer",
-    "date": "August 2013 – October 2013",
-    "text": [
-      "For the Aperto AG I developed the frontend for the relaunch of the german drugstore Rossmann as part of a large interdisciplinary team. My main responsibilities were to make the site more interactive using JavaScript whereever it was useful and to coordinate the collaboration with the backend team regarding client-server communication via AJAX/XHR."
-    ],
-    "image": "aperto.svg",
-    "tech": "HTML, JavaScript, jQuery, AJAX/XHR, SASS, Grunt"
-  },
-  {
-    "title": "Handelsblatt/Wirtschaftswoche",
-    "role": "Freelance Frontend Lead",
-    "date": "June 2012 – June 2017",
-    "text": [
-      "For the new mobile website of Handelsblatt and Wirtschaftswoche I was responsible for the technical conception and realization of the JavaScript architecture supporting 20+ different devices and platforms (iOS, Android, WP8, Blackberry, Firefox OS). The customer's ambitious goal was to create one of the most cutting edge mobile website in Germany which should at the same time still be usable on old devices."
-    ],
-    "image": "handelsblatt.svg",
-    "tech": "JavaScript, jQuery, Node.js, AJAX/XHR, CSS, Grunt, Less, Responsive Design"
-  },
-  {
-    "title": "Sevenval GmbH",
-    "role": "Freelance Frontend Developer",
-    "date": "Mai 2012 – September 2012",
-    "text": [
-      "For Sevenval GmbH I realized the new website. Main goal was to support even old Android 2.0 phones but also (at that time) brand new MacBooks with retina display. The company's own markup abstraction language which is based on XML/XSLT and performs server side optimization was used."
-    ],
-    "image": "sevenval.svg",
-    "tech": "XML, XSL, HTML, JavaScript, CSS, PHP, TYPO3"
-  }
-]
+  "items": [
+    {
+      "title": "Lab 1886 / Daimler",
+      "role": "Freelance JavaScript Architect / Developer",
+      "image": "daimler.svg",
+      "date": "seit Februar 2019",
+      "text": [
+        "Für den konzerneigenen Inkubator des Daimler-Konzerns, Lab 1886, konzipierte und entwickelte ich die Frontend-Architektur für das Back Office eines geplanten Großprojekts. Nach der Konzeption der Frontend-Architektur von Grund auf, begann ich die Implementation der Anwendung zusammen mit einem Team aus Frontend- und Backend-Entwicklern."
+      ],
+      "tech": "JavaScript, ES2015+, React, Hooks, Redux, Jest, Webpack, i18n, REST, TypeScript"
+    },
+    {
+      "title": "KUBIKx / Schmitz Cargobull",
+      "role": "Freelance JavaScript Consultant",
+      "image": "schmitzcargobull.svg",
+      "date": "November 2018 – Januar 2019",
+      "text": [
+        "Für KUBIKx, den internen Venture Builder des Schmitz Cargobull Konzerns, arbeitete ich an der Entwicklung und technischen Konzeption ihres ersten Ventures mit, beriet und schulte interne Entwickler zum Thema Frontend-Entwicklung mit React und sorgte insbesondere dafür, die bestehende Codebase verständlicher und wartbarer zu machen."
+      ],
+      "tech": "JavaScript, ES2015+, React, Redux, Jest, Webpack, i18n, REST, TypeScript"
+    },
+    {
+      "title": "Porsche Digital Lab",
+      "role": "Interim Tech Lead / Frontend Lead",
+      "image": "porsche.svg",
+      "date": "Mai 2018 – Oktober 2018",
+      "text": [
+        "Für ein Venture des Porsche Digital Lab konzipierte ich als Tech- und Frontend Lead die technische Architektur und entwickelte, basierend auf dieser, eine erste Version des Produkts bis zum Launch zusammen mit einem Team aus 10 Entwicklern und Designern."
+      ],
+      "tech": "JavaScript, ES2015+, React, Redux, Flow, Jest, Webpack, i18n, Node.js, Express, Hapi, REST, TypeScript"
+    },
+    {
+      "title": "Klarna.",
+      "role": "Freelance Frontend Consultant",
+      "image": "klarna.svg",
+      "date": "April 2018",
+      "text": [
+        "Für den Payment Service Anbieter Klarna beriet ich ein Team von internen Entwicklern bei der Erstellung und Weiterentwicklung der unternehmenseigenen Entwickler-Dokumentation."
+      ],
+      "tech": "JavaScript, ES2015+, React, Gatsby, Node.js, Webpack, Docker"
+    },
+    {
+      "title": "BCG Digital Ventures",
+      "role": "Freelance JavaScript Engineer",
+      "image": "bcgdv.svg",
+      "date": "January 2018 – März 2018",
+      "text": [
+        "Für die Digtal Ventures Sparte der Boston Consulting Group entwickelte ich eine Anwendung für „High Precision Farming“. Die Anwendung ermöglicht es Landwirten, Dünge-Entscheidungen basierend auf verschiedenen Typen von Satellitenbildern zu treffen, um so ihr Feld effizienter bewirtschaften zu können."
+      ],
+      "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Webpack, PostCSS, Enzyme, Node.js, REST, i18n, Mapbox, Boundless SDK"
+    },
+    {
+      "title": "Brickblock",
+      "hidden": true,
+      "role": "Freelance Fullstack Developer",
+      "image": "brickblock.svg",
+      "date": "Oktober/November 2017",
+      "text": [
+        "Für das Blockchain-Startup Brickblock entwickelte ich eine React-Anwendung mit Hilfe derer sich Crypto-Nerds aus aller Welt am ICO (Initial Coin Offering) von Brickblock beteiligen konnten. Darüber hinaus unterstützte ich die Entwicklung einer Platform, mit der weltweit die erste Immobilie über Cryptocurrencies verkauft wird und optimierte und automatisierte einige Prozesse beim Management der eigenen JavaScript-Packages"
+      ],
+      "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Node.js, Webpack, CSS Modules, REST, Styled Components, npmjs.com, i18n, Gitlab-CI"
+    },
+    {
+      "title": "Service Partner ONE",
+      "role": "Freelance JavaScript Lead",
+      "image": "servicepartnerone.svg",
+      "date": "August/September 2017",
+      "text": [
+        "Bei Service Partner ONE kümmerte ich mich als interim Lead JavaScript Developer in enger Zusammenarbeit mit dem CTO um die technische Konzeption mehrerer neuer Anwendungen des Unternehmens und war an der Auswahl des neuen Lead JavaScript Developers beteiligt."
+      ],
+      "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, XHR, CSS Modules, REST, i18n"
+    },
+    {
+      "title": "TomTom Telematics",
+      "role": "Freelance JavaScript Developer",
+      "image": "tomtom.svg",
+      "date": "Juli 2017",
+      "text": [
+        "Bei TomTom Telematics beriet ich das Webfleet-Team bei der Umsetzung und Optimierung ihrer React-Komponenten. Webfleet ist ein Flottenmanagementsystem das weltweit von über 50.000 Kunden mit über 1 Mio Benutzern in über 10 Sprachen genutzt wird. Die Anwendung ist als React Single Page App realisiert."
+      ],
+      "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, REST, i18n"
+    },
+    {
+      "title": "ProSiebenSat.1 Digital",
+      "role": "Freelance JavaScript Architect",
+      "image": "pro7sat1digital.svg",
+      "date": "Februar 2016 – Juni 2017",
+      "text": [
+        "Für die ProSiebenSat1-Tochter 7NXT entwickelte ich eine React basierte Frontend-Anwendung im Bereich eLearning/Online-Video. Die besondere Herausforderung lag hierbei darin, alle Komponenten sowie auch die Entwicklungsprozesse multi-mandantenfähig und wiederverwendbar zu machen ohne dabei die Wartbarkeit der Anwendung außer Acht zu lassen. Neben der Entwicklung der Anwendungen kümmerte ich mich außerdem um die Gestaltung und Optimierung der Entwicklungs-Prozesse."
+      ],
+      "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, Gulp, REST, Sass, i18n"
+    },
+    {
+      "title": "Zalando SE",
+      "role": "Freelance JavaScript Developer",
+      "image": "zalando.svg",
+      "date": "Juni 2015 – Januar 2016",
+      "text": [
+        "Für Zalando entwickelte ich im Auftrag der Teams „Shop Content Creation“ und „Editorial“ einige interne Tools um die Prozesse im Frontend zu vereinfachen, zu vereinheitlichen und die Zusammenarbeit mit anderen Disziplinen (Text/Content, Grafik) nahtloser zu gestalten. Dazu gehörte die Konzeption eines auf die Anforderungen der Teams angepasstes Micro-CMS, eine Komponenten-Bibliothek zur Erstellung neuer Shop-Content-Seiten und eine automatisierte Tracking-Lösung."
+      ],
+      "tech": "HTML, JavaScript, ES2015+, React, Webpack, Node.js, SASS, Less, Handlebars, Grunt, Gulp, JSONSchema, i18n"
+    },
+    {
+      "title": "Amakuria",
+      "hidden": true,
+      "role": "Fullstack Developer",
+      "image": "amakuria.svg",
+      "date": "seit Dezember 2014",
+      "text": [
+        "Als eigenes Projekt startete ich im Februar 2015 die Produkt-Community „Amakuria“. Hier können Besucher die spannendsten, innovativsten oder lustigsten Produkte von Amazon entdecken. Das Projekt dient insbesondere als eigene Spielwiese, um neue Technologien unter Live-Bedingungen zu testen."
+      ],
+      "tech": "Node.js, Express.js, MySQL, HTML, JavaScript, ES2015+, AJAX/XHR, CSS, SASS, Grunt, Handlebars, Web Components/Polymer"
+    },
+    {
+      "title": "Aperto AG",
+      "hidden": true,
+      "role": "Freelance Frontend Developer",
+      "image": "aperto.svg",
+      "date": "Januar 2014 – Mai 2015",
+      "text": [
+        "Im Auftrag der Aperto AG realisierte ich verschiedene Projekte für den Schweizer Supermarkt „Migros“. Der Online-Auftritt des Konzerns besteht aus knapp einem Dutzend Seitenbereichen die zum Teil sehr unterschiedliche Technologien verwenden. Im Laufe meines Engagements wurde außerdem ein umfangreicher Relaunch der gesamten Online-Aktivitäten geplant, an deren Konzeption und Aufbau ich als Berater und Entwickler im Frontend beteiligt war."
+      ],
+      "tech": "HTML, JavaScript, ES2015 (via Traceur Compiler), AJAX/XHR, CSS, SASS/Compass, AngularJS, Handlebars, Grunt, Node.js, Require.js, Web Components, i18n"
+    },
+    {
+      "title": "c3 - Creative Code & Content",
+      "hidden": true,
+      "role": "Freelance Frontend Developer",
+      "image": "c3.svg",
+      "date": "September 2014 – Oktober 2014",
+      "text": [
+        "Im Auftrag der c3 GmbH entwickelte eine komplexe interaktive Infografik zur Verwendung im Intranet des Chemiekonzerns Evonik. Die große Herausforderung bestand hier insbesondere darin, die Infografik unter schwierigsten Bedingungen auf allen 22.000 Konzernrechnern - allesamt mit Internet Explorer 7 bestückt - ans Laufen zu bekommen. Mission geglückt, Kunde zufrieden."
+      ],
+      "tech": "HTML, JavaScript, jQuery, CSS, SASS"
+    },
+    {
+      "title": "Pixelpark AG",
+      "hidden": true,
+      "role": "Freelance Frontend Developer",
+      "image": "pixelpark.svg",
+      "date": "Oktober 2013 – Januar 2014",
+      "text": [
+        "Im Auftrag der Pixelpark AG entwickelte ich für die Online-Versandapotheke DocMorris mehrere Landingpages zur Einbindung in das Shop-System. Dabei wurde eine JSON-API entwickelt durch die Produktinformationen aus dem Shop angefragt und die Landingpages mit den entsprechenden Inhalten befüllt wurden."
+      ],
+      "tech": "HTML, JavaScript, jQuery, AJAX/XHR, CSS, SASS/Compass, Less, Grunt, PHP"
+    },
+    {
+      "title": "Aperto AG",
+      "hidden": true,
+      "role": "Freelance Frontend Developer",
+      "image": "aperto.svg",
+      "date": "August 2013 – Oktober 2013",
+      "text": [
+        "Für die Aperto AG entwickelte ich als Teil eines größeren interdisziplinären Teams das Frontend für den Relaunch der Website des Drogeriemarkts Rossmann. Hier kümmerte ich mich insbesondere um die Interaktivität der Seite mittels JavaScript und um Client-Server-Kommunikation via AJAX in enger Zusammenarbeit mit dem Backend-Team."
+      ],
+      "tech": "HTML, JavaScript, jQuery, AJAX/XHR, SASS, Grunt"
+    },
+    {
+      "title": "Handelsblatt/Wirtschaftswoche",
+      "role": "Freelance Frontend Lead",
+      "image": "handelsblatt.svg",
+      "date": "Juni 2012 – Juni 2017",
+      "text": [
+        "Für die neuen mobilen Webapps des Handelsblatt und der Wirtschaftswoche war ich für die technische Konzeption, den Aufbau und Umsetzung des JavaScript für über 20 verschiedene Zielgeräte (Smartphones und Tablets) sowie für die Koordination mit verschiedenen Dienstleistern verantwortlich. Der Anspruch des Kunden war hier, die technisch hochwertigste mobile Version der Seite zu entwickeln, die nach aktuellem Stand der Browser zu diesem Zeitpunkt möglich war, ohne dabei jedoch alte Endgeräte außen vor zu lassen."
+      ],
+      "tech": "JavaScript, jQuery, Node.js, AJAX/XHR, CSS, Grunt, Less, Responsive Design"
+    },
+    {
+      "title": "Sevenval GmbH",
+      "hidden": true,
+      "role": "Freelance Frontend Developer",
+      "image": "sevenval.svg",
+      "date": "Mai 2012 – September 2012",
+      "text": [
+        "Für die Sevenval GmbH realisierte ich den Web-Auftritt nach Kundenvorgaben für Zielsysteme von einfachen Android-Smartphones bis hin zu neuen Macbooks mit Retina-Display. Hierzu wurde die kundeneigene Markup-Sprache FITML verwendet, die auf XML und XSL basiert und für die verschiedenen Endgeräte serverseitig optimiertes HTML ausliefert."
+      ],
+      "tech": "XML, XSL, HTML, JavaScript, CSS, PHP, TYPO3"
+    }
+  ]
+}

@@ -1,31 +1,100 @@
 {
-    "technical": {
-        "proficient": [
-            "JavaScript", "ES2015", "React", "Redux", "Webpack", "Gulp", "Grunt.js", "Node.js", "Express", 
-            "jQuery", "HTML5", "XHTML", "CSS3", "Handlebars", "XML", "AJAX/XHR", "HTTP", "SASS/SCSS", "LESS", "PhantomJS", 
-            "Workflow automation", "Mobile and Web Technologies in general", "Web and Frontend Performance", "Responsive Design"
-        ],
-        "intermediate": [
-            "Underscore", "Lodash", "Immutable.js", "require.js", "AMD", "PHP", "SQL", "Backbone",
-            "AngularJS", "Bootstrap", "REST", "Websockets", "Google Maps API", "Git", "SVN", "TYPO3", "Apache",
-            "MongoDB", "NoSQL", "npm", "WordPress", "XSLT", "XPath", "jQuery Mobile", "QUnit", "Jasmine", "Smarty",
-            "SEO", "WAP/WML", "Adobe Photoshop", "Adobe Fireworks", "FBML/Facebook SDK", "Docbook", "Phonegap", "Linux"
-        ],
-        "basic": [
-            "Meteor.js", "Ember.js", "jade/pug", "ejs", "swig", "twig", "HAML", "Nunjucks", "Zurb Foundation",
-            "XT-Commerce", "Magento Shop", "oAuth 2", "CouchDB", "Adobe InDesign", "Adobe Illustrator"
-        ]
-    },
-    "economic": {
-        "proficient": [
-            "Cost calculation for Web Projects", "Technical Project Management", "Written English"
-        ],
-        "intermediate": [
-            "Employee Management and Leadership", "Team Management and Team Building", "Corporate Management", "SCRUM",
-            "IT and Online Law", "Spoken English ;)"
-        ],
-        "basic": [
-            "Corporate Financing", "Accounting", "Process Management"
-        ]
-    }
+  "technical": {
+    "proficient": [
+      "JavaScript",
+      "ES2015",
+      "React",
+      "Redux",
+      "Webpack",
+      "Gulp",
+      "Grunt.js",
+      "Node.js",
+      "Express",
+      "jQuery",
+      "HTML5",
+      "XHTML",
+      "CSS3",
+      "Handlebars",
+      "XML",
+      "AJAX/XHR",
+      "HTTP",
+      "SASS/SCSS",
+      "LESS",
+      "PhantomJS",
+      "Workflow automation",
+      "Mobile and Web Technologies in general",
+      "Web and Frontend Performance",
+      "Responsive Design"
+    ],
+    "intermediate": [
+      "Underscore",
+      "Lodash",
+      "Immutable.js",
+      "require.js",
+      "AMD",
+      "PHP",
+      "SQL",
+      "Backbone",
+      "AngularJS",
+      "Bootstrap",
+      "REST",
+      "Websockets",
+      "Google Maps API",
+      "Git",
+      "SVN",
+      "TYPO3",
+      "Apache",
+      "MongoDB",
+      "NoSQL",
+      "npm",
+      "WordPress",
+      "XSLT",
+      "XPath",
+      "jQuery Mobile",
+      "QUnit",
+      "Jasmine",
+      "Smarty",
+      "SEO",
+      "WAP/WML",
+      "Adobe Photoshop",
+      "Adobe Fireworks",
+      "FBML/Facebook SDK",
+      "Docbook",
+      "Phonegap",
+      "Linux"
+    ],
+    "basic": [
+      "Meteor.js",
+      "Ember.js",
+      "jade/pug",
+      "ejs",
+      "swig",
+      "twig",
+      "HAML",
+      "Nunjucks",
+      "Zurb Foundation",
+      "XT-Commerce",
+      "Magento Shop",
+      "oAuth 2",
+      "CouchDB",
+      "Adobe InDesign",
+      "Adobe Illustrator"
+    ]
+  },
+  "economic": {
+    "proficient": [
+      "Cost calculation for Web Projects",
+      "Technical Project Management",
+      "Written English"
+    ],
+    "intermediate": [
+      "Employee Management and Leadership",
+      "Team Management and Team Building",
+      "Corporate Management",
+      "SCRUM",
+      "IT and Online Law",
+      "Spoken English ;)"
+    ],
+    "basic": ["Corporate Financing", "Accounting", "Process Management"]
+  }
 }

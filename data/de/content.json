@@ -53,6 +53,9 @@
       "<strong>Ich würde mich daher über die Gelegenheit freuen, mich einmal persönlich bei Ihnen vorzustellen!</strong>"
     ],
     "sections": {
+      "projects": {
+        "headline": "Vergangene Projekte (Auszug)"
+      },
       "work": {
         "headline": "Berufliche Praxis"
       },
@@ -61,6 +64,9 @@
       },
       "qualifications": {
         "headline": "Qualifikationen/Abschlüsse"
+      },
+      "testimonials": {
+        "headline": "Andere über mich"
       },
       "skills": {
         "headline": "Fachkenntnisse",

@@ -53,6 +53,9 @@
       "<strong>I‘d be pleased to get the ocassion to introduce myself personally to you!</strong>"
     ],
     "sections": {
+      "projects": {
+        "headline": "Recent Projects (excerpt)"
+      },
       "work": {
         "headline": "Professional Experience"
       },
@@ -61,6 +64,9 @@
       },
       "qualifications": {
         "headline": "Qualifikations/­Degrees"
+      },
+      "testimonials": {
+        "headline": "Others about me"
       },
       "skills": {
         "headline": "Expert knowledge",
