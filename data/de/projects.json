@@ -106,7 +106,7 @@
       "image": "zalando.svg",
       "date": "Juni 2015 – Januar 2016",
       "text": [
-        "Für Zalando entwickelte ich im Auftrag der Teams „Shop Content Creation“ und „Editorial“ einige interne Tools um die Prozesse im Frontend zu vereinfachen, zu vereinheitlichen und die Zusammenarbeit mit anderen Disziplinen (Text/Content, Grafik) nahtloser zu gestalten. Dazu gehörte die Konzeption eines auf die Anforderungen der Teams angepasstes Micro-CMS, eine Komponenten-Bibliothek zur Erstellung neuer Shop-Content-Seiten und eine automatisierte Tracking-Lösung."
+        "Für Zalando entwickelte ich einige interne Tools um die Prozesse im Frontend zu vereinfachen, zu vereinheitlichen und die Zusammenarbeit mit anderen Disziplinen (Text/Content, Grafik) nahtloser zu gestalten. Dazu gehörte die Konzeption eines auf die Anforderungen der Teams angepasstes Micro-CMS, eine Komponenten-Bibliothek zur Erstellung neuer Shop-Content-Seiten und eine automatisierte Tracking-Lösung."
       ],
       "tech": "HTML, JavaScript, ES2015+, React, Webpack, Node.js, SASS, Less, Handlebars, Grunt, Gulp, JSONSchema, i18n"
     },
