@@ -82,6 +82,7 @@
     },
     {
       "title": "TomTom Telematics",
+      "hidden": true,
       "role": "Freelance JavaScript Developer",
       "image": "tomtom.svg",
       "date": "Juli 2017",

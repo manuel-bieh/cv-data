@@ -11,14 +11,34 @@
   "mission": "I build modern, scalable and maintainable user interfaces for the web. I aim to deliver value to your product, help your team grow, and ultimately have a positive, exceptional impact on your company.",
   "items": [
     {
+      "title": "GLS eCom Lab",
+      "role": "Freelance JavaScript Consultant",
+      "date": "July 2019 – September 2019",
+      "text": [
+        "For the GLS eCom Lab I created the technical base for a business idea they had piloted earlier and implemented a fully functional MVP afterwards. After building a shared Design System that is now used in several projects at GLS I've built the React application from the ground up with a successful beta launch end of September."
+      ],
+      "image": "gls.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, AWS, Infrastructure as Coded"
+    },
+    {
+      "title": "Rocket Internet",
+      "role": "Freelance JavaScript Architect",
+      "date": "June 2019",
+      "text": [
+        "For Rocket Internet I kickstarted a new React application that was built to scale and with internationalization in mind. I created an in-house Design System together with a UI Designer and laid the technical base for the customer portal of their upcoming new venture."
+      ],
+      "image": "rocket-internet.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, Contentful"
+    },
+    {
       "title": "Lab 1886 / Daimler",
       "role": "Freelance JavaScript Architect / Developer",
-      "date": "since Februar 2019",
+      "date": "Februar 2019 – March 2019",
       "text": [
         "For the incubator of Daimler, Lab 1886, I created a concept for the frontent architecture for the back office of an upcoming large-scale project with a rollout in several european contries. After designing the frontend architecture from the ground up I started with the implementation of the actual application together with other developers."
       ],
       "image": "daimler.svg",
-      "tech": "JavaScript, ES2015+, React, Hooks, Redux, Jest, Webpack, i18n, REST, TypeScript"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, Webpack, i18n, REST"
     },
     {
       "title": "KUBIKx / Schmitz Cargobull",
@@ -38,7 +58,7 @@
         "For a Porsche Digital Lab venture I created the technical concept and architecture as Tech and Frontend Lead and later, based on that architecture, developed a first version of their product together with a team of 10 developers and designers."
       ],
       "image": "porsche.svg",
-      "tech": "JavaScript, ES2015+, React, Redux, Flow, Jest, Webpack, i18n, Node.js, Express, Hapi, TypeScript"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Flow, Jest, Webpack, Storybook, i18n, Node.js, Express, Hapi"
     },
     {
       "title": "Klarna.",
@@ -52,6 +72,7 @@
     },
     {
       "title": "BCG Digital Ventures",
+      "hidden": true,
       "role": "Freelance JavaScript Engineer",
       "date": "January 2018 – March 2018",
       "text": [
@@ -83,6 +104,7 @@
     },
     {
       "title": "TomTom Telematics",
+      "hidden": true,
       "role": "Freelance JavaScript Developer",
       "date": "July 2017",
       "text": [
