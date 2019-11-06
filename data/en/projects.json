@@ -63,6 +63,7 @@
     {
       "title": "Klarna.",
       "role": "Freelance Frontend Consultant",
+      "hidden": true,
       "date": "April 2018",
       "text": [
         "For the swedish payment service provider and Paypal competitor Klarna I consulted an internal team of developers regarding the development of their internal developer documentation."
@@ -72,11 +73,11 @@
     },
     {
       "title": "BCG Digital Ventures",
-      "hidden": true,
+      "hidden": false,
       "role": "Freelance JavaScript Engineer",
       "date": "January 2018 – March 2018",
       "text": [
-        "For the Digital Venture branch of the consulting company BCG I developed a React application for high precision farming. The application made it possible for farmers to make fertilizing decisions based on different types of satellite images and create GPS based programs for their tractors."
+        "For the Digital Venture branch of the consulting company BCG I developed a React application for high precision farming. The application made it possible for farmers to make fertilizing decisions based on different types of satellite images and create GPS based fertilizing programs for their tractors."
       ],
       "image": "bcgdv.svg",
       "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Enzyme, Node.js, Webpack, PostCSS, i18n, Mapbox, Boundless SDK"

@@ -41,6 +41,7 @@
     },
     {
       "title": "Klarna.",
+      "hidden": true,
       "role": "Freelance Frontend Consultant",
       "image": "klarna.svg",
       "date": "April 2018",
