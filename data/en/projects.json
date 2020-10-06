@@ -1,12 +1,12 @@
 {
   "stage": {
-    "title": "React lernen und verstehen",
-    "date": "(German Book) April 2019",
+    "title": "React Deep Dive",
+    "date": "April 2019",
+    "image": "react-deep-dive-cover.jpg",
     "text": [
       "After working with React on a daily basis for more than 3 years, in over 15 projects, in teams of different sizes, types and structure, and for companies from various industries, ranging in size from small startups up to large corporations I wanted to share my experience with others.",
-      "That's why I decided to start writing a book in the beginning of 2018. I finished it with more than 300 pages and published it in April 2019."
-    ],
-    "image": "react-book-portrait-white-medium.jpg"
+      "That's why I decided to start writing a book in the beginning of 2018. I finished it with more than 320 pages and published it in April 2019."
+    ]
   },
   "mission": "I build modern, scalable and maintainable user interfaces for the web. I aim to deliver value to your product, help your team grow, and ultimately have a positive, exceptional impact on your company.",
   "items": [
