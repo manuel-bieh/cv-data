@@ -11,14 +11,34 @@
   "mission": "I build modern, scalable and maintainable user interfaces for the web. I aim to deliver value to your product, help your team grow, and ultimately have a positive, exceptional impact on your company.",
   "items": [
     {
+      "title": "Börse Stuttgart Digital Exchange",
+      "role": "Freelance JavaScript Consultant",
+      "date": "December 2019 – October 2020",
+      "text": [
+        "In my role as Technical Frontend Lead for BSDEX, a spinoff of Börse Stuttgart (Stuttgart Stock Exchange), my first task was coordinating the handover of their trading web platform as it was passed from an external service provider to an internal team. Following the handover I continued as an active member of the team, developing new features and continuously improving the adopted codebase."
+      ],
+      "image": "boersestuttgart.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Styled Components, Webpack, i18n, REST, Websockets"
+    },
+    {
+      "title": "Osram Lightelligence",
+      "role": "Freelance JavaScript Consultant",
+      "date": "October 2019 – December 2020",
+      "text": [
+        "In October 2019 I joined the platform team of the Osram Lightelligence Innovation Hub and helped them to improve their open-source project processes throughout the company. I discussed and established ESLint rules across different teams, helped to automate and improve their package release processes with Semantic Release, and continuously worked on improving their documentation, which is a crucial part of successful open source projects."
+      ],
+      "image": "osram2.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Semantic Release, ESLint, Webpack"
+    },
+    {
       "title": "GLS eCom Lab",
       "role": "Freelance JavaScript Consultant",
       "date": "July 2019 – September 2019",
       "text": [
-        "For the GLS eCom Lab I created the technical base for a business idea they had piloted earlier and implemented a fully functional MVP afterwards. After building a shared Design System that is now used in several projects at GLS I've built the React application from the ground up with a successful beta launch end of September."
+        "For the GLS eCom Lab I created the technical base for a business idea they had piloted earlier and implemented a fully functional MVP afterwards. After building a shared Design System that was quickly used in other projects at GLS I've built the React application from the ground up with a successful beta launch end of September."
       ],
       "image": "gls.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, AWS, Infrastructure as Coded"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, AWS, Infrastructure as Code"
     },
     {
       "title": "Rocket Internet",
@@ -62,8 +82,8 @@
     },
     {
       "title": "Klarna.",
-      "role": "Freelance Frontend Consultant",
       "hidden": true,
+      "role": "Freelance Frontend Consultant",
       "date": "April 2018",
       "text": [
         "For the swedish payment service provider and Paypal competitor Klarna I consulted an internal team of developers regarding the development of their internal developer documentation."
@@ -73,7 +93,6 @@
     },
     {
       "title": "BCG Digital Ventures",
-      "hidden": false,
       "role": "Freelance JavaScript Engineer",
       "date": "January 2018 – March 2018",
       "text": [

@@ -10,10 +10,50 @@
   },
   "items": [
     {
+      "title": "Börse Stuttgart Digital Exchange",
+      "role": "Freelance Technical Frontend Lead",
+      "date": "December 2019 – October 2020",
+      "text": [
+        "In meiner Position als Technical Frontend Lead für BSDEX, einem Spin-Off der Börse Stuttgart, war eine meiner ersten Aufgaben die Koordination des Handovers ihrer Web Trading Plattform hin von einem externen Dienstleister zu einem internen Team. Nach dem Handover war ich weiter als aktives Mitglied des Teams an der Entwicklung neuer Features beteiligt und arbeitete fortwährend an der Verbesserung der übernommenen Codebase."
+      ],
+      "image": "boersestuttgart.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Styled Components, Webpack, i18n, REST, Websockets"
+    },
+    {
+      "title": "Osram Lightelligence",
+      "role": "Freelance JavaScript Consultant",
+      "date": "Oktober 2019 – Dezember 2020",
+      "text": [
+        "Im Oktober 2019 schloss ich mich dem Platform-Team des Osram Lightelligence Innovation Hubs an und half ihnen dabei die Prozesse rund um ihre Open Source JavaScript Packages unternehmensweit zu verbessern. Ich diskutierte und führte ESLint Regeln über die verschiedenen Teams hinweg ein, half dabei ihre Release-Prozesse mittels Semantic Release zu automatisieren und arbeitete fortwährend an der Verbesserung ihrer Dokumentation, die ein wesentlicher Faktor ist für den Erfolg von Open Source Projekten."
+      ],
+      "image": "osram2.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Semantic Release, ESLint, Webpack"
+    },
+    {
+      "title": "GLS eCom Lab",
+      "role": "Freelance JavaScript Consultant",
+      "date": "Juli 2019 – September 2019",
+      "text": [
+        "Für das GLS eCom Lab erstellte ich die technische Grundlage für eine Business Idee die zuvor in einer Pilotphase erfolgreich getestet wurde und implementierte anschließend einen voll-funktionales MVP. Nach der Erstellung einer flexiblen UI Library, die schnell auch in anderen Projekten Einsatz fand, erstellte ich die React-Anwendung völlig von Grund auf bis hin zum erfolgreichen Beta-Launch im September"
+      ],
+      "image": "gls.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, AWS, Infrastructure as Code"
+    },
+    {
+      "title": "Rocket Internet",
+      "role": "Freelance JavaScript Architect",
+      "date": "Juni 2019",
+      "text": [
+        "Für Rocket Internet erstellte ich eine React Web-Anwendung die von Beginn an auf Skalierung und Internationalisierung ausgerichtet war. Ich erstellte ein schlankes in-house Design-System in Zusammenarbeit mit einem UI Designer und legte damit die technische Grundlage für ein Kundenportal eines ihrer zukünftigen Ventures"
+      ],
+      "image": "rocket-internet.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, Contentful"
+    },
+    {
       "title": "Lab 1886 / Daimler",
       "role": "Freelance JavaScript Architect / Developer",
       "image": "daimler.svg",
-      "date": "seit Februar 2019",
+      "date": "Februar 2019 – März 2019",
       "text": [
         "Für den konzerneigenen Inkubator des Daimler-Konzerns, Lab 1886, konzipierte und entwickelte ich die Frontend-Architektur für das Back Office eines geplanten Großprojekts. Nach der Konzeption der Frontend-Architektur von Grund auf, begann ich die Implementation der Anwendung zusammen mit einem Team aus Frontend- und Backend-Entwicklern."
       ],
