@@ -16,7 +16,7 @@
       "text": [
         "In meiner Position als Technical Frontend Lead für BSDEX, einem Spin-Off der Börse Stuttgart, war eine meiner ersten Aufgaben die Koordination des Handovers ihrer Web Trading Plattform hin von einem externen Dienstleister zu einem internen Team. Nach dem Handover war ich weiter als aktives Mitglied des Teams an der Entwicklung neuer Features beteiligt und arbeitete fortwährend an der Verbesserung der übernommenen Codebase."
       ],
-      "image": "boersestuttgart.svg",
+      "image": "boerse-stuttgart.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Styled Components, Webpack, i18n, REST, Websockets"
     },
     {
