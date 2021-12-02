@@ -11,14 +11,24 @@
   "mission": "I build modern, scalable and maintainable user interfaces for the web. I aim to deliver value to your product, help your team grow, and ultimately have a positive, exceptional impact on your company.",
   "items": [
     {
+      "title": "Gymondo",
+      "role": "Freelance JavaScript Consultant",
+      "date": "April 2021 – November 2021",
+      "text": [
+        "For Gymondo I was mainly responsible to optimize several React codebases to be up to date again. They had several different projects with mostly Create React App, Storybook and Gatsby as their base technology which needed to be optimized in terms of build speed, maintainability and developer productivity. Later I joined one of their product teams to build feature on top of the freshly updated architecture."
+      ],
+      "image": "gymondo.svg",
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Gatsby, Jest, React Testing Library, Scss, Webpack, i18n, REST"
+    },
+    {
       "title": "Börse Stuttgart Digital Exchange",
       "role": "Freelance JavaScript Consultant",
-      "date": "December 2019 – October 2020",
+      "date": "December 2019 – March 2021",
       "text": [
         "In my role as Technical Frontend Lead for BSDEX, a spinoff of Börse Stuttgart (Stuttgart Stock Exchange), my first task was coordinating the handover of their trading web platform as it was passed from an external service provider to an internal team. Following the handover I continued as an active member of the team, developing new features and continuously improving the adopted codebase."
       ],
       "image": "boerse-stuttgart.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Styled Components, Webpack, i18n, REST, Websockets"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Styled Components, Webpack, i18n, REST, Websockets"
     },
     {
       "title": "Osram Lightelligence",
@@ -28,7 +38,7 @@
         "In October 2019 I joined the platform team of the Osram Lightelligence Innovation Hub and helped them to improve their open-source project processes throughout the company. I discussed and established ESLint rules across different teams, helped to automate and improve their package release processes with Semantic Release, and continuously worked on improving their documentation, which is a crucial part of successful open source projects."
       ],
       "image": "osram2.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Semantic Release, ESLint, Webpack"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Semantic Release, ESLint, Webpack"
     },
     {
       "title": "GLS eCom Lab",
@@ -38,7 +48,7 @@
         "For the GLS eCom Lab I created the technical base for a business idea they had piloted earlier and implemented a fully functional MVP afterwards. After building a shared Design System that was quickly used in other projects at GLS I've built the React application from the ground up with a successful beta launch end of September."
       ],
       "image": "gls.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, AWS, Infrastructure as Code"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, AWS, Infrastructure as Code"
     },
     {
       "title": "Rocket Internet",
@@ -48,7 +58,7 @@
         "For Rocket Internet I kickstarted a new React application that was built to scale and with internationalization in mind. I created an in-house Design System together with a UI Designer and laid the technical base for the customer portal of their upcoming new venture."
       ],
       "image": "rocket-internet.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, Contentful"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, Contentful"
     },
     {
       "title": "Lab 1886 / Daimler",
@@ -58,7 +68,7 @@
         "For the incubator of Daimler, Lab 1886, I created a concept for the frontent architecture for the back office of an upcoming large-scale project with a rollout in several european contries. After designing the frontend architecture from the ground up I started with the implementation of the actual application together with other developers."
       ],
       "image": "daimler.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Hooks, Redux, Jest, Webpack, i18n, REST"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, Webpack, i18n, REST"
     },
     {
       "title": "KUBIKx / Schmitz Cargobull",
