@@ -15,7 +15,7 @@
       "role": "Freelance JavaScript Consultant",
       "date": "April 2021 – November 2021",
       "text": [
-        "For Gymondo I was mainly responsible to optimize several React codebases to be up to date again. They had several different projects with mostly Create React App, Storybook and Gatsby as their base technology which needed to be optimized in terms of build speed, maintainability and developer productivity. Later I joined one of their product teams to build feature on top of the freshly updated architecture."
+        "For Gymondo I was mainly responsible to optimize several React codebases to be up to date again. They had several different projects with mostly Create React App, Storybook and Gatsby as their base technology which needed to be optimized in terms of build speed, maintainability and developer productivity. Later I joined one of their product teams to build features on top of the freshly updated architecture."
       ],
       "image": "gymondo.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Gatsby, Jest, React Testing Library, Scss, Webpack, i18n, REST"
@@ -25,7 +25,7 @@
       "role": "Freelance JavaScript Consultant",
       "date": "December 2019 – March 2021",
       "text": [
-        "In my role as Technical Frontend Lead for BSDEX, a spinoff of Börse Stuttgart (Stuttgart Stock Exchange), my first task was coordinating the handover of their trading web platform as it was passed from an external service provider to an internal team. Following the handover I continued as an active member of the team, developing new features and continuously improving the adopted codebase."
+        "In my role as Technical Frontend Lead for BSDEX, a spinoff of Börse Stuttgart (Stuttgart Stock Exchange), my first task was coordinating the handover of their trading web platform as it was passed from an external service provider to an internal team. Following the handover I continued as an active member of the team, developing new features and continuously improving and enhancing the adopted codebase."
       ],
       "image": "boerse-stuttgart.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Styled Components, Webpack, i18n, REST, Websockets"
