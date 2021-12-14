@@ -17,7 +17,7 @@
         "Bei Gymondo war ich dafür verantwortlich verschiedene React Codebases auf den neuesten Stand der Technik zu bringen. Es existierten unterschiedliche Projekte die auf Create React App, Gatsby oder Storybook basierten und hinsichtlich Buildzeiten, Wartbarkeit und Entwickler-Produktivität optimiert werden sollten. Anschließend entwickelte ich in einem ihrer Projektteams neue Features."
       ],
       "image": "gymondo.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Gatsby, Jest, React Testing Library, Scss, Webpack, i18n, REST"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Gatsby, Next.js, Jest, React Testing Library, Scss, Webpack, i18n, REST"
     },
     {
       "title": "Börse Stuttgart Digital Exchange",
