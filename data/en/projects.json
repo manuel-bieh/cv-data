@@ -11,6 +11,56 @@
   "mission": "I build modern, scalable and maintainable user interfaces for the web. I aim to deliver value to your product, help your team grow, and ultimately have a positive, exceptional impact on your company.",
   "items": [
     {
+      "title": "Spark Networks",
+      "role": "Freelance Lead Frontend Developer",
+      "date": "January 2025 – June 2025",
+      "text": [
+        "As part of the transition from an outsourced development setup to an internal engineering team, I was brought in to coordinate the handover of the company’s main consumer-facing web applications. I ensured a smooth transition by collecting and documenting all necessary knowledge from the external agency, including API credentials, platform-specific nuances, and architectural decisions. I also supported the recruitment process by conducting technical interviews for the new team. After the transition, I helped onboard the internal team and continuously worked on improving the structure and quality of the inherited codebase."
+      ],
+      "tech": "React, TypeScript, Vite, i18n, Storybook, Vitest, React Testing Library, Nx,",
+      "image": "spark.svg"
+    },
+    {
+      "title": "Eberlein Kunz",
+      "role": "Freelance Lead Frontend Developer",
+      "date": "June 2024 – December 2024",
+      "text": [
+        "I was tasked with modernizing a legacy React codebase that had grown over 8 years without a clear architectural direction. I refactored more than 150 files, replacing class components with modern functional components, introducing React Hooks, frontend caching, and virtualized lists to significantly improve performance. Page load times were reduced from over 10 seconds to under 2, and build times dropped from 45+ seconds to less than 10. I also implemented a scalable, maintainable frontend architecture tailored for long-term growth."
+      ],
+      "tech": "React, TypeScript, Webpack, Redux, React Testing Library, Jest",
+      "image": "eberlein-kunz.svg"
+    },
+    {
+      "title": "finstreet",
+      "role": "Freelance Frontend Architect",
+      "date": "May 2023 – April 2024",
+      "text": [
+        "I joined finstreet to work on an internal product enabling banks to manage and archive digital customer consents, including legally binding e-signatures for actions like accepting updated Terms and Conditions (ToC) or purchasing cooperative shares. As the technical lead on the frontend side, I was responsible for defining architecture, aligning closely with the backend team, and ensuring seamless cross-functional collaboration. I established clean team processes and created the foundation for a maintainable, future-proof codebase."
+      ],
+      "tech": "React, TypeScript, Next.js, i18n, React Testing Library, Jest, Storybook",
+      "image": "finstreet.svg"
+    },
+    {
+      "title": "VR Smart Finanz",
+      "role": "Freelance Frontend Consultant",
+      "date": "May 2022 – April 2023",
+      "text": [
+        "I worked on a bookkeeping platform for SMB clients of Volksbank, enhancing a frontend codebase that had evolved for over 5 years from an initial prototype. I brought modern practices to the table, introducing React Hooks, modular state management, and TanStack Query to improve code quality and maintainability. Navigating a complex banking environment, I handled frequent requirement changes due to regulatory shifts and ensured that the frontend remained stable, secure, and performant under demanding conditions."
+      ],
+      "tech": "React, TypeScript, Next.js, i18n, Playwright, React Testing Library, Jest",
+      "image": "vr-smart-finanz.svg"
+    },
+    {
+      "title": "Cosuno",
+      "role": "Freelance Lead Full Stack Developer",
+      "date": "February 2022 – April 2022",
+      "text": [
+        "At Cosuno, I supported the integration of 3D construction plans into the existing product. My responsibilities were primarily strategic and organizational: I coordinated the work of several development partners, evaluated third-party vendors, gathered technical and domain-specific information, and documented workflows and requirements. I worked closely with a distributed team and contributed to stabilizing a challenging project situation."
+      ],
+      "tech": "React, TypeScript, Next.js, Node.js, Styled Components, Jest, React Testing Library, i18n, Autodesk Forge, Three.js",
+      "image": "cosuno.svg"
+    },
+    {
       "title": "Gymondo",
       "role": "Freelance JavaScript Consultant",
       "date": "April 2021 – November 2021",
@@ -18,7 +68,7 @@
         "For Gymondo I was mainly responsible to optimize several React codebases to be up to date again. They had several different projects with mostly Create React App, Storybook and Gatsby as their base technology which needed to be optimized in terms of build speed, maintainability and developer productivity. Later I joined one of their product teams to build features on top of the freshly updated architecture."
       ],
       "image": "gymondo.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Gatsby, Next.js, Jest, React Testing Library, Scss, Webpack, i18n, REST"
+      "tech": "React, TypeScript, Redux, Gatsby, Next.js, i18n, Jest, React Testing Library, Scss, Webpack, REST"
     },
     {
       "title": "Börse Stuttgart Digital Exchange",
@@ -28,7 +78,7 @@
         "In my role as Technical Frontend Lead for BSDEX, a spinoff of Börse Stuttgart (Stuttgart Stock Exchange), my first task was coordinating the handover of their trading web platform as it was passed from an external service provider to an internal team. Following the handover I continued as an active member of the team, developing new features and continuously improving and enhancing the adopted codebase."
       ],
       "image": "boerse-stuttgart.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Styled Components, Webpack, i18n, REST, Websockets"
+      "tech": "JavaScript, TypeScript, React, Redux, i18n, Jest, React Testing Library, Styled Components, Webpack, REST, Websockets"
     },
     {
       "title": "Osram Lightelligence",
@@ -38,7 +88,7 @@
         "In October 2019 I joined the platform team of the Osram Lightelligence Innovation Hub and helped them to improve their open-source project processes throughout the company. I discussed and established ESLint rules across different teams, helped to automate and improve their package release processes with Semantic Release, and continuously worked on improving their documentation, which is a crucial part of successful open source projects."
       ],
       "image": "osram2.svg",
-      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Semantic Release, ESLint, Webpack"
+      "tech": "JavaScript, TypeScript, ES2015+, React, Redux, i18n, Jest, React Testing Library, Semantic Release, ESLint, Webpack"
     },
     {
       "title": "GLS eCom Lab",
@@ -96,7 +146,7 @@
       "role": "Freelance Frontend Consultant",
       "date": "April 2018",
       "text": [
-        "For the swedish payment service provider and Paypal competitor Klarna I consulted an internal team of developers regarding the development of their internal developer documentation."
+        "For the swedish payment service provider and Paypal competitor Klarna I consulted an internal team of developers regarding the development of their developer documentation."
       ],
       "image": "klarna.svg",
       "tech": "JavaScript, ES2015+, React, Gatsby, Node.js, Webpack, Docker"
@@ -120,11 +170,11 @@
         "For the blockchain startup Brickblock I developed a React application which was used by crypto nerds from all over the world to participate in the company's ICO (initial coin offering). Beyond that I supported the development of a platform which was used to sell the first building via blockchain and also optimized and automated the company's processes for managing their own JavaScript packages."
       ],
       "image": "brickblock.svg",
-      "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Enzyme, Node.js, Webpack, CSS Modules, PostCSS, Styled Components, npmjs.com, i18n, Gitlab-CI"
+      "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Enzyme, Node.js, Webpack, CSS Modules, PostCSS, Styled Components, i18n, Gitlab-CI"
     },
     {
       "title": "Service Partner ONE",
-      "role": "Freelance JavaScript Lead",
+      "role": "Freelance Lead Frontend Developer",
       "date": "August/September 2017",
       "text": [
         "As interim Lead JavaScript Developer at Service Partner ONE I was responsible for the technical conception and implementation of several new applications. I also took part in the screening and selection processes for their new permanent Lead JavaScript Developer."
@@ -145,7 +195,7 @@
     },
     {
       "title": "ProSiebenSat.1 Digital",
-      "role": "Freelance JavaScript Architect",
+      "role": "Freelance Lead Frontend Developer",
       "date": "February 2016 – June 2017",
       "text": [
         "For the ProSiebenSat1 Digital venture 7NXT I developed a React based frontend application in the field of e-Learning/video content. The special challenge was to make all components and development processes reusable and work in a multi-tenancy environment without neglecting maintainability. Besides the development of the application itself I was also responsible for creating and optimizing efficient development processes in the frontend."
