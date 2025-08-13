@@ -4,18 +4,18 @@
     "date": "April 2019",
     "image": "react-deep-dive-cover.jpg",
     "text": [
-      "After working with React on a daily basis for more than 3 years, in over 15 projects, in teams of different sizes, types and structure, and for companies from various industries, ranging in size from small startups up to large corporations I wanted to share my experience with others.",
-      "That's why I decided to start writing a book in the beginning of 2018. I finished it with more than 320 pages and published it in April 2019."
+      "After working with React daily for more than 3 years across over 15 projects, in teams of different sizes, types and structures, and for companies from startups to large corporations, I wanted to share my experience.",
+      "So I started writing a book in early 2018. I finished it at more than 320 pages and published it in April 2019."
     ]
   },
-  "mission": "Ship product faster with clean, scalable and maintainable web frontends. Raise code quality, accelerate teams, and turn legacy into leverage. Focus on measurable outcomes and long term value.",
+  "mission": "I build modern, scalable and maintainable user interfaces. I aim to deliver value to your product, help your organization grow, and ultimately have a positive, exceptional impact on your company.",
   "items": [
     {
       "title": "Spark Networks",
       "role": "Freelance Lead Frontend Developer",
       "date": "January 2025 – June 2025",
       "text": [
-        "Led transition from an external agency to an internal engineering team and removed operational risk. Captured architecture and runbooks, secured credentials, ran technical interviews, onboarded engineers, and uplifted code quality to enable confident delivery."
+        "At Spark Networks I led the handover from an external agency to an internal engineering team and reduced operational risk. I captured architecture and runbooks, secured credentials, ran technical interviews, onboarded engineers, and raised code quality to enable reliable delivery."
       ],
       "tech": "React, TypeScript, Vite, i18n, Storybook, Vitest, React Testing Library, Nx",
       "image": "spark.svg"
@@ -25,7 +25,7 @@
       "role": "Freelance Lead Frontend Developer",
       "date": "June 2024 – December 2024",
       "text": [
-        "Modernized an 8 year React codebase and unlocked real performance gains. Replaced classes with hooks, added caching and virtualized lists, cut load time from over 10 seconds to under 2, and reduced build time from over 45 seconds to under 10. Established a clear architecture that sped up feature work."
+        "At Eberlein Kunz I modernized an 8 year React codebase and delivered measurable performance gains. I replaced classes with hooks, added caching and virtualized lists, reduced load time from over 10 seconds to under 2, and cut build time from over 45 seconds to under 10. I established a clear architecture that sped up feature work."
       ],
       "tech": "React, React Native, TypeScript, Webpack, Redux, React Testing Library, Jest",
       "image": "eberlein-kunz.svg"
@@ -35,7 +35,7 @@
       "role": "Freelance Frontend Architect",
       "date": "May 2023 – April 2024",
       "text": [
-        "Defined frontend architecture for a banking consent platform with electronic signatures and audit trails. Aligned closely with backend, set pragmatic team processes, and built a maintainable foundation that made future features straightforward and compliant."
+        "At finstreet I defined the frontend architecture for a banking consent platform with electronic signatures and audit trails. I aligned closely with backend, set pragmatic team processes, and built a maintainable foundation that kept new features straightforward and compliant."
       ],
       "tech": "React, TypeScript, Next.js, i18n, React Testing Library, Jest, Storybook",
       "image": "finstreet.svg"
@@ -45,7 +45,7 @@
       "role": "Freelance Frontend Consultant",
       "date": "May 2022 – April 2023",
       "text": [
-        "Refreshed a 5 year codebase for an SMB bookkeeping platform. Adopted React Hooks, modular state, and TanStack Query to improve reliability and maintainability while requirements changed frequently. Kept delivery steady in a demanding environment."
+        "At VR Smart Finanz I refreshed a 5 year codebase for an SMB bookkeeping platform. I adopted React Hooks, modular state and TanStack Query to improve reliability and maintainability while requirements changed frequently. Delivery remained steady in a demanding environment."
       ],
       "tech": "React, TypeScript, Next.js, i18n, Playwright, React Testing Library, Jest",
       "image": "vr-smart-finanz.svg"
@@ -55,7 +55,7 @@
       "role": "Freelance Lead Full Stack Developer",
       "date": "February 2022 – April 2022",
       "text": [
-        "At Cosuno, I supported the integration of 3D construction plans into the existing product. My responsibilities were primarily strategic and organizational: I coordinated the work of several development partners, evaluated third-party vendors, gathered technical and domain-specific information, and documented workflows and requirements. I worked closely with a distributed team and contributed to stabilizing a challenging project situation."
+        "At Cosuno I supported the integration of 3D construction plans into the product. I coordinated development partners, evaluated vendors, gathered technical and domain insights, and documented workflows and requirements. Working with a distributed team, I helped stabilize a challenging project."
       ],
       "tech": "React, TypeScript, Next.js, Node.js, Styled Components, Jest, React Testing Library, i18n, Autodesk Forge, Three.js",
       "image": "cosuno.svg"
@@ -65,7 +65,7 @@
       "role": "Freelance JavaScript Consultant",
       "date": "April 2021 – November 2021",
       "text": [
-        "For Gymondo I was mainly responsible to optimize several React codebases to be up to date again. They had several different projects with mostly Create React App, Storybook and Gatsby as their base technology which needed to be optimized in terms of build speed, maintainability and developer productivity. Later I joined one of their product teams to build features on top of the freshly updated architecture."
+        "For Gymondo I was responsible for optimizing several React codebases to current standards. Projects based on Create React App, Storybook and Gatsby needed faster builds, better maintainability and higher developer productivity. Later I joined a product team to deliver features on the updated architecture."
       ],
       "image": "gymondo.svg",
       "tech": "React, React Native, TypeScript, Redux, Gatsby, Next.js, i18n, Jest, React Testing Library, SCSS, Webpack, REST"
@@ -75,7 +75,7 @@
       "role": "Freelance Technical Frontend Lead",
       "date": "December 2019 – March 2021",
       "text": [
-        "In my role as Technical Frontend Lead for BSDEX, a spin-off of Börse Stuttgart (Stuttgart Stock Exchange), my first task was coordinating the handover of their trading web platform as it was passed from an external service provider to an internal team. Following the handover I continued as an active member of the team, developing new features and continuously improving and enhancing the adopted codebase."
+        "As Technical Frontend Lead at BSDEX, a spinoff of Börse Stuttgart, I first coordinated the handover of the trading web platform from an external provider to the internal team. Afterwards I continued as a core team member, delivered features, and continuously improved the adopted codebase."
       ],
       "image": "boerse-stuttgart.svg",
       "tech": "React, React Native, TypeScript, Redux, i18n, Jest, React Testing Library, Styled Components, Webpack, REST, WebSockets"
@@ -85,7 +85,7 @@
       "role": "Freelance JavaScript Consultant",
       "date": "October 2019 – December 2020",
       "text": [
-        "I joined the platform team of the Osram Lightelligence Innovation Hub and helped them to improve their open-source project processes throughout the entire organization. I discussed and established ESLint rules across different teams, helped to automate and improve their package release processes with Semantic Release, and continuously worked on improving their documentation, which is a crucial part of successful open source projects."
+        "I joined the platform team at the Osram Lightelligence Innovation Hub to strengthen open source practices. I established ESLint rules across teams, automated releases with Semantic Release, and improved documentation, a key factor in successful open source projects."
       ],
       "image": "osram2.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Redux, i18n, Jest, React Testing Library, Semantic Release, ESLint, Webpack"
@@ -95,7 +95,7 @@
       "role": "Freelance JavaScript Consultant",
       "date": "July 2019 – September 2019",
       "text": [
-        "For the GLS eCom Lab I created the technical base for a business idea they had piloted earlier and implemented a fully functional MVP afterwards. After building a shared Design System that was quickly used in other projects at GLS I've built the React application from the ground up with a successful beta launch after just 3 months."
+        "I created the technical base for a previously piloted business idea and delivered a complete MVP. After building a shared design system used in other GLS projects, I built the React application from scratch with a successful beta launch after just 3 months."
       ],
       "image": "gls.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, AWS, Infrastructure as Code"
@@ -105,7 +105,7 @@
       "role": "Freelance JavaScript Architect",
       "date": "April 2019 – June 2019",
       "text": [
-        "For Rocket Internet I kickstarted a new React application that was built to scale and with internationalization in mind. I created an in-house Design System together with a UI Designer and laid the technical base for the customer portal of their upcoming new venture."
+        "For Rocket Internet I kickstarted a scalable React application with internationalization in mind. I created an in house design system with a UI designer and laid the technical base for the customer portal of a new venture."
       ],
       "image": "rocket-internet.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, React Testing Library, Storybook, Webpack, i18n, REST, Contentful"
@@ -115,7 +115,7 @@
       "role": "Freelance JavaScript Architect and Developer",
       "date": "February 2019 – March 2019",
       "text": [
-        "For the incubator of Daimler, Lab 1886, I created a concept for the frontend architecture for the back office of an upcoming large-scale project with a rollout in several european countries. After designing the frontend architecture from the ground up I started with the implementation of the actual application together with other developers."
+        "For Daimler’s incubator Lab 1886 I created the frontend architecture for the back office of a large scale project with rollout in several European countries. After designing the architecture, I started implementation with the team."
       ],
       "image": "daimler.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Jest, Webpack, i18n, REST"
@@ -125,7 +125,7 @@
       "role": "Freelance JavaScript Consultant",
       "date": "November 2018 – January 2019",
       "text": [
-        "For KUBIKx, the internal Venture Builder of the Schmitz Cargobull Group, one of Europe's largest manufacturer of semi-trailers and trailers, I worked on the technical conception and development of their first venture. My work included consulting and coaching the internal developers in frontend development with React and I was responsible to make their entire existing code base easier to understand and to maintain."
+        "At KUBIKx, the venture builder of Schmitz Cargobull, I worked on the technical conception and development of the first venture. I consulted and coached internal developers in React and made the existing codebase easier to understand and maintain. Schmitz Cargobull is one of Europe’s largest manufacturers of semi trailers and trailers."
       ],
       "image": "schmitzcargobull.svg",
       "tech": "JavaScript, ES2015+, React, Redux, Jest, Webpack, i18n, REST"
@@ -135,7 +135,7 @@
       "role": "Interim Tech Lead / Frontend Lead",
       "date": "May 2018 – October 2018",
       "text": [
-        "For a Porsche Digital Lab venture I created the technical concept and architecture as Tech Lead before I developed a first version of their product together with a team of 10 developers and designers."
+        "For a Porsche Digital Lab venture I created the technical concept and architecture as Tech Lead, then developed the first product version leading a team of 10 developers and designers."
       ],
       "image": "porsche.svg",
       "tech": "JavaScript, TypeScript, ES2015+, React, Redux, Flow, Jest, Webpack, Storybook, i18n, Node.js, Express, Hapi"
@@ -156,7 +156,7 @@
       "role": "Freelance JavaScript Engineer",
       "date": "January 2018 – March 2018",
       "text": [
-        "For the Digital Venture branch of the consulting company BCG I developed a React application for high precision farming. The application made it possible for farmers to make fertilizing decisions based on different types of satellite images and create GPS based fertilizing programs for their tractors."
+        "For BCG Digital Ventures I developed a React application for precision farming. It enabled farmers to make fertilizing decisions based on satellite imagery and to create GPS based fertilizing programs for their tractors."
       ],
       "image": "bcgdv.svg",
       "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Enzyme, Node.js, Webpack, PostCSS, i18n, Mapbox, Boundless SDK"
@@ -167,7 +167,7 @@
       "role": "Freelance Fullstack Developer",
       "date": "October 2017 – November 2017",
       "text": [
-        "For the blockchain startup Brickblock I developed a React application which was used by crypto nerds from all over the world to participate in the company's ICO (initial coin offering). Beyond that I supported the development of a platform which was used to sell the first building via blockchain and also optimized and automated the company's processes for managing their own JavaScript packages."
+        "For the blockchain startup Brickblock I developed the React application used worldwide to participate in the company’s ICO. I also supported the platform used to sell the first building via blockchain and automated the company’s JavaScript package management."
       ],
       "image": "brickblock.svg",
       "tech": "HTML, JavaScript, ES2015+, React, Redux, Flow, Jest, Enzyme, Node.js, Webpack, CSS Modules, PostCSS, Styled Components, i18n, GitLab CI"
@@ -177,7 +177,7 @@
       "role": "Freelance Lead Frontend Developer",
       "date": "August 2017 – September 2017",
       "text": [
-        "As interim Lead JavaScript Developer at Service Partner ONE I was responsible for the technical conception and implementation of several new applications. I also took part in the screening and selection processes for their new permanent Lead JavaScript Developer."
+        "As interim Lead JavaScript Developer at Service Partner ONE I led the technical conception and implementation of several new applications. I also took part in screening and selection for the permanent Lead JavaScript Developer."
       ],
       "image": "servicepartnerone.svg",
       "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, XHR, PostCSS, CSS Modules, i18n"
@@ -188,7 +188,7 @@
       "role": "Freelance JavaScript Developer",
       "date": "July 2017",
       "text": [
-        "In the Telematics division of TomTom I was part of the Webfleet team. Webfleet is a complex fleet management system which is used by more than 50.000 customers and over 1 million users in 10+ languages. The application has been realized as React single page app."
+        "In the Telematics division of TomTom I was part of the Webfleet team. Webfleet is a complex fleet management system used by more than 50,000 customers and over 1,000,000 users in more than 10 languages. The application was built as a React single page app."
       ],
       "image": "tomtom.svg",
       "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, XHR, CSS Modules, i18n"
@@ -198,7 +198,7 @@
       "role": "Freelance Lead Frontend Developer",
       "date": "February 2016 – June 2017",
       "text": [
-        "For the ProSiebenSat1 Digital venture 7NXT I developed a React based frontend application in the field of e-Learning/video content. The special challenge was to make all components and development processes reusable and work in a multi-tenancy environment without neglecting maintainability. Besides the development of the application itself I was also responsible for creating and optimizing efficient development processes in the frontend."
+        "For the ProSiebenSat.1 Digital venture 7NXT I developed a React based frontend for e learning and video. The goal was reusable components and processes that work in a multi tenancy environment without losing maintainability. I also created and optimized efficient frontend workflows."
       ],
       "image": "pro7sat1digital.svg",
       "tech": "HTML, JavaScript, ES2015+, React, Redux, Node.js, Webpack, Gulp, XHR, Sass, i18n"
@@ -208,7 +208,7 @@
       "role": "Freelance JavaScript Developer",
       "date": "June 2015 – January 2016",
       "text": [
-        "For Zalando I developed some tools to make the collaboration between several teams (text/content, graphic/layout, \u2026) easier, streamlined and more seemless. This included the conception and development of a micro-cms adapted to the needs of the teams, a component library to enable template based creation of new content and an automated tracking solution which allowed easier user tracking on all content pages."
+        "For Zalando I built tools to streamline collaboration between content, design and engineering. This included a micro CMS tailored to team needs, a component library for template based content creation, and an automated tracking solution for all content pages."
       ],
       "image": "zalando.svg",
       "tech": "HTML, JavaScript, ES2015+, React, Webpack, Node.js, SASS, Less, Handlebars, Grunt, Gulp, JSONSchema, i18n"
@@ -219,7 +219,7 @@
       "role": "Fullstack Developer",
       "date": "since December 2014",
       "text": [
-        "In February 2015 I launched my very own project Amakuria - a product community which aims to making the most exciting, innovative and funniest products from Amazon easily discoverable. The project primarily serves as personal playground to play around with new technologies under live conditions."
+        "In February 2015 I launched Amakuria, a product community that makes the most exciting, innovative and entertaining Amazon finds easy to discover. The project serves as a personal playground to experiment with new technologies under live conditions."
       ],
       "image": "amakuria.svg",
       "tech": "Node.js, Express.js, MySQL, HTML, JavaScript, ES2015+, AJAX/XHR, CSS, SASS, Grunt, Handlebars, Web Components and Polymer"
@@ -230,7 +230,7 @@
       "role": "Freelance Frontend Developer",
       "date": "January 2014 – May 2015",
       "text": [
-        "On behalf of Aperto AG I realized several projects for the swiss supermarket chain \"Migros\". The online presence of the company consists of around one dozen different independent sections which partly use very different technologies. While working for Migros I was involved in a large relaunch of the whole online strategy and took the role as Consultant and Developer for all kind of frontend related topics."
+        "On behalf of Aperto AG I delivered several projects for the Swiss supermarket chain Migros. The online presence consists of about a dozen independent sections using different technologies. I contributed to a major relaunch and acted as consultant and developer for all frontend topics."
       ],
       "image": "aperto.svg",
       "tech": "HTML, JavaScript, ES2015 via Traceur Compiler, AJAX/XHR, CSS, SASS and Compass, AngularJS, Handlebars, Grunt, Node.js, Require.js, Web Components"
@@ -241,7 +241,7 @@
       "role": "Freelance Frontend Developer",
       "date": "September 2014 – October 2014",
       "text": [
-        "On behalf of c3 (former KircherBurkhardt GmbH) one of Europe's leading content marketing agencies I developed a complex interactive infographic for use in the intranet of one of the chemical company Evonik. The big challenge was especially to make it work on all of the more then 22,000 company computers - mostly running with Internet Explorer 7. Mission accomplished, client was happy."
+        "On behalf of c3 (formerly KircherBurkhardt), one of Europe’s leading content marketing agencies, I developed a complex interactive infographic for the Evonik intranet. It worked on more than 22,000 company computers, many running Internet Explorer 7. Mission accomplished, client happy."
       ],
       "image": "c3.svg",
       "tech": "HTML, JavaScript, jQuery, CSS, SASS"
@@ -252,7 +252,7 @@
       "role": "Freelance Frontend Developer",
       "date": "October 2013 – January 2014",
       "text": [
-        "For the renowned german online agency Pixelpark I developed several HTML landingpages for the online pharmacy DocMorris which were later integrated into their shop."
+        "For the renowned German online agency Pixelpark I developed several HTML landing pages for the online pharmacy DocMorris, later integrated into the shop."
       ],
       "image": "pixelpark.svg",
       "tech": "HTML, JavaScript, jQuery, AJAX/XHR, CSS, SASS and Compass, Less, Grunt, PHP"
@@ -263,7 +263,7 @@
       "role": "Freelance Frontend Developer",
       "date": "August 2013 – October 2013",
       "text": [
-        "For the Aperto AG I developed the frontend for the relaunch of the german drugstore Rossmann as part of a large interdisciplinary team. My main responsibilities were to make the site more interactive using JavaScript whereever it was useful and to coordinate the collaboration with the backend team regarding client-server communication via AJAX/XHR."
+        "For Aperto AG I developed the frontend for the Rossmann relaunch as part of a large interdisciplinary team. I increased interactivity with JavaScript wherever useful and coordinated collaboration with the backend team for AJAX and XHR communication."
       ],
       "image": "aperto.svg",
       "tech": "HTML, JavaScript, jQuery, AJAX/XHR, SASS, Grunt"
@@ -273,7 +273,7 @@
       "role": "Freelance Frontend Lead",
       "date": "June 2012 – June 2017",
       "text": [
-        "For the new mobile website of Handelsblatt and Wirtschaftswoche I was responsible for the technical conception and realization of the JavaScript architecture supporting 20+ different devices and platforms (iOS, Android, WP8, Blackberry, Firefox OS). The customer's ambitious goal was to create one of the most cutting edge mobile website in Germany which should at the same time still be usable on old devices."
+        "For the new mobile websites of Handelsblatt and Wirtschaftswoche I owned the JavaScript architecture across more than 20 devices and platforms including iOS, Android, Windows Phone, Blackberry and Firefox OS. The goal was a cutting edge mobile experience that also remained usable on older devices."
       ],
       "image": "handelsblatt.svg",
       "tech": "JavaScript, jQuery, Node.js, AJAX/XHR, CSS, Grunt, Less, Responsive Design"
@@ -284,7 +284,7 @@
       "role": "Freelance Frontend Developer",
       "date": "May 2012 – September 2012",
       "text": [
-        "For Sevenval GmbH I realized the new website. Main goal was to support even old Android 2.0 phones but also (at that time) brand new MacBooks with retina display. The company's own markup abstraction language which is based on XML/XSLT and performs server side optimization was used."
+        "For Sevenval GmbH I delivered the new website with support from very old Android 2.0 phones to new MacBooks with Retina display. I used the company’s markup abstraction language based on XML and XSLT with server side optimization."
       ],
       "image": "sevenval.svg",
       "tech": "XML, XSL, HTML, JavaScript, CSS, PHP, TYPO3"
